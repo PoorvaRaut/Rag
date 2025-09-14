@@ -1,0 +1,12 @@
+venv/
+.env
+memory_storage/
+core/__pycache__
+memory/__pycache__
+models/__pycache__
+tools/__pycache__
+workflow/__pycache__
+data/
+tests/
+# document_rag.py
+test_openai.py
